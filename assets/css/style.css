@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(../img/about-daniel-img.https://github.com/bthaden123/simplesite/blob/main/assets/img/Screen%20Shot%202022-11-09%20at%205.02.44%20PM.png?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(https://github.com/bthaden123/simplesite/blob/main/assets/img/Screen%20Shot%202022-11-09%20at%205.02.44%20PM.png?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
